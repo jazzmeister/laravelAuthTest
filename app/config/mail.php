@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'jasonbishp30@gmail.com', 'name' => 'Auth'),
+	'from' => array('address' => 'your email.com', 'name' => 'Auth'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'jasonbishp30@gmail.com',
+	'username' => 'your email.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'jutland25',
+	'password' => 'yourpass',
 
 	/*
 	|--------------------------------------------------------------------------
